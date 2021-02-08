@@ -15,3 +15,49 @@
 	-tipo di contatore
 	-tipo di connessione(considerare connessione wifi-lan tramite connessione con telefono e settaggio, pensare come fare con sim)
 	-frequenza di lettura
+	
+	
+	
+	
+	enrico: 
+	fa ordinare i pezzi
+	elaborare immagine(open CV)
+	
+	
+	vincy:
+	progettazione 3d
+	inviare dati(dove, come)
+	pianificazione project
+	
+	
+	ange:
+	gestione stand-by
+	caso d'uso
+	
+	pigna:
+	acquisire immagine dalla telecamera
+	elaborare immagine(open CV)
+	
+	
+	
+	cercare pezzi
+	ordinazione pezzi 
+	acquisizione immagine
+	elaborazione immagine
+	gestione stand-by
+	invio dati
+	progettzione 3d
+	stampa 3d
+	montaggio 
+	test 
+	consegna
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
