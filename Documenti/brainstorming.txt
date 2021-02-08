@@ -1,0 +1,17 @@
+1.	materiale:
+		rasperry pi 0 v
+		fotocamera ir x
+		batteria(powerbank) v
+		involucro (stampa 3d) x
+		
+2.	gestione stand-by
+	configurazione tipo lettore, connessione, parametri
+	acquisire immagine dalla telecamera
+	elaborare immagine(open CV)
+	inviare dati(dove, come)
+	
+3.	applicazione/web app per configurare contatore
+	cosa può essere configurato/modificato:
+	-tipo di contatore
+	-tipo di connessione(considerare connessione wifi-lan tramite connessione con telefono e settaggio, pensare come fare con sim)
+	-frequenza di lettura
