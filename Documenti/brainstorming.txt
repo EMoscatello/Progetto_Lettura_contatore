@@ -22,6 +22,7 @@
 	enrico: 
 	fa ordinare i pezzi
 	elaborare immagine(open CV)
+	seguire quello che fanno gli altri incompententi 
 	
 	
 	vincy:
