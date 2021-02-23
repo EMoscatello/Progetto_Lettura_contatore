@@ -1,0 +1,25 @@
+
+analisi del problema/requisiti: Documenti
+
+esempi di casi d'uso: installatore, impiegato fatturazione azienda fornitrice, consumatori (colui che consuma l'acqua)
+
+GUI (Graphic User Interface) assente
+
+pianificazione con Project: Documenti
+
+argomenti teorici/librerie/ambienti di sviluppo/hardware/... che devono essere approfonditi per poter sviluppare quanto richiesto
+- pyton con openCV per OCR
+- Linux per configurazione Raspberry
+- ricerche su power management
+
+Oggi: scrivere email 
+
+Attese del prof: 
+Lavori in corso, 
+- progetto Pyton OpenCv scaricato dalla rete e "funzionante" 
+- sito con tutorial Pyton
+- sito configurazione Raspberry con Linux (comandi di configurazione) 
+- materiale su power management di Aruino
+- schema di rete con Packet Tracer che descrive il sistema
+
+------------------------------------------------------------------------------------------------------------------
