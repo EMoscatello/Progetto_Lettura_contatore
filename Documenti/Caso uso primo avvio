@@ -1,0 +1,25 @@
+
+Caso d’Uso: 
+Primo Avvio
+
+ID: 
+CU_1_PrimoAvvio
+
+Attori:
+Installatore
+
+Precondizioni:
+L’ installatore deve aver cercato il dispositivo tramite indirizzo ip sul suo browser.
+
+Sequenza eventi:
+Il caso d’uso inizia quando l’installatore apre la pagina del dispositivo sul suo browser
+Il sistema visualizza la pagina di configurazione del dispositivo. Per prima cosa l’installatore dovrà collegarlo alla rete cablata/wireless. 
+Dopo aver configurato la rete deve inserire i dati del cliente, la frequenza di lettura e verificarne il corretto funzionamento.
+
+Sequenze alternative:
+L’installatore può uscire dalla pagina del dispositivo selezionando la X rossa in alto a destra, sul browser utilizzato.
+
+Postcondizioni:
+Il sistema offre la possibilità di usufruire i servizi offerti.
+
+
