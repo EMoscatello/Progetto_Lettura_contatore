@@ -1,0 +1,24 @@
+
+Caso d’Uso: 
+Controllo Consumi
+
+ID: 
+CU_2_ Controllo Consumi
+
+Attori:
+Cliente dell'azienda che rileva le letture del contatore
+
+Precondizioni:
+Il cliente deve aver aperto l’applicazione/web app.
+
+Sequenza eventi:
+Il caso d’uso inizia quando il cliente apre l’app o web app sul suo browser
+Il sistema visualizza sulla home page un grafico con i consumi e i valori delle ultime letture.
+
+Sequenze alternative:
+Il cliente può uscire dalla pagina selezionando la X rossa in alto a destra, sul browser utilizzato.
+
+Postcondizioni:
+Il sistema offre la possibilità di usufruire i servizi offerti.
+
+
