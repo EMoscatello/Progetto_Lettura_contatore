@@ -1,0 +1,5 @@
+Codice AI: https://stackoverflow.com/questions/9413216/simple-digit-recognition-ocr-in-opencv-python
+
+Tutorial OpenCV su Python: https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K&ab_channel=ProgrammingKnowledge
+
+Documentazione OpenCV: https://docs.opencv.org/4.5.1/
